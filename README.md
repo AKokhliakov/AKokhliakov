@@ -5,17 +5,17 @@ Well engineer and data analyst
 
 ## 💻 Skills & Expertise
 
-#### Python
+### Python
 - 🐍 Data analysis with Pandas and NumPy   
 - 🤖 Automation of repetitive tasks  
 
 ### SQL
-- 🗄️ Writing complex queries (joins, subqueries, and aggregations) in PostgreSQL  
+- 🗄️ Writing complex queries in PostgreSQL  
 
 ### Advanced Excel
+- 🧹 Data cleaning and preparation
 - 🔢 Advanced formulas and functions (LOOKUPs: XLOOKUP, VLOOKUP, INDEX-MATCH)  
 - 📊 Data visualization (charts, pivot tables)  
-- 🧹 Data cleaning and preparation    
 
 ### Tableau 
 - 📊 Data visualization and dashboard creation   
