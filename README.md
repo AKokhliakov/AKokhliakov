@@ -1,5 +1,4 @@
-## Hello, I am Artem 👋
-# Well engineer and data analyst
+## Hello, I am Artem 👋 # Well engineer and data analyst
 ______________________________________
 
 * I’m currently learning ...
