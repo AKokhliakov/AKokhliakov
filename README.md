@@ -1,6 +1,6 @@
 ## Hello, I am Artem 👋 
-## Well engineer and data analyst
-______________________________________
+Well engineer and data analyst
+
 
 * I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
