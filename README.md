@@ -5,7 +5,7 @@ Well engineer and data analyst
 
 ## 💻 Skills & Expertise
 
-### Python
+#### Python
 - 🐍 Data analysis with Pandas and NumPy   
 - 🤖 Automation of repetitive tasks  
 
@@ -22,5 +22,4 @@ Well engineer and data analyst
 
 ### LeetCode
 - 🔄 Solving SQL and Pandas problems to strengthen data manipulation and query skills  
-- 🧠 Focus on enhancing data structures, algorithms, and SQL query optimization  
-- 🏅 Solved 100+ SQL and Pandas problems on LeetCode  
+- 🧠 Focus on enhancing my hard skills    
